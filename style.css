@@ -1,0 +1,52 @@
+#mother {
+    width: 100%;
+    font-size: 20px;
+}
+
+main {
+    float: left;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+input {
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+}
+
+aside {
+    text-align: center;
+    width: 300px;
+    float: right;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+}
+
+#th1 {
+    width: 890px;
+    font-size: 20px;
+}
+
+#th1 th {
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+aside button {
+    width: 190px;
+    padding: 8px;
+    margin-top: 7px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer
+}
